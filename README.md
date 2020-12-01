@@ -8,3 +8,6 @@
 <p><a title="Website" href="https://danielvdp.com"><img src="images/socials/globe.svg" alt="Globe icon" width="16" height="16"> Personal Website</a></p>
 <p><a title="LinkedIn" href="https://www.linkedin.com/in/daniel-van-der-ploeg/"><img src="images/socials/linkedin.svg" alt="LinkedIn icon" width="16" height="16"> LinkedIn</a></p>
 <p><a title="Email me" href="mailto:danielvdp56@gmail.com"><img src="images/socials/envelope.svg" alt="Envelope icon" width="16" height="16"> Email</a></p>
+
+<h3> Roll initative!</h3>
+<img width="512" height="512" src="https://d20.danielvdp.com/d20.svg" />
