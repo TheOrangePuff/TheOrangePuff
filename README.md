@@ -10,4 +10,4 @@
 <p><a title="Email me" href="mailto:danielvdp56@gmail.com"><img src="images/socials/envelope.svg" alt="Envelope icon" width="16" height="16"> Email</a></p>
 
 <h3>🐉 Roll initative!</h3>
-<img width="512" height="512" src="https://d20.danielvdp.com/d20.svg" />
+<img width="512" height="512" src="http://d20.danielvdp.com/d20.svg" />
